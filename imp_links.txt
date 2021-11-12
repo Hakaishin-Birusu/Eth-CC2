@@ -1,0 +1,6 @@
+1. https://www.unscramblerer.com/3/unscramble-word/abcdef  => abcdef word list
+
+2. https://mango-is.com/tools/csv-to-json/#resultsPane    => convert csv to json
+
+
+f, a, b, 3
